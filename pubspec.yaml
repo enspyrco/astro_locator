@@ -1,4 +1,4 @@
-name: astro_locator
+name: locator_for_perception
 description: A simple service locator used in astro packages.
 version: 0.0.0-a1
 publish_to: none

@@ -1,4 +1,4 @@
-# astro_locator
+# locator_for_perception
 
 *A simple service locator used in astro packages.*
 

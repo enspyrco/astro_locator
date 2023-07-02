@@ -1,4 +1,4 @@
-library astro_locator;
+library locator_for_perception;
 
 /// Current Limitations
 /// - Only one object of a certain type can be added/located
