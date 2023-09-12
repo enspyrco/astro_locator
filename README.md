@@ -1,6 +1,6 @@
 # locator_for_perception
 
-*A simple service locator used in astro packages.*
+*A simple service locator used in perception packages.*
 
 ## Features
 
